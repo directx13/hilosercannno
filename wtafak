@@ -1,0 +1,3 @@
+
+    if game.PlaceId == 15186202290 then
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
